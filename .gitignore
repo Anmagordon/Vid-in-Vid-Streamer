@@ -1,0 +1,41 @@
+# Archivos de compilación de Visual Studio
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ipch
+*.ilk
+*.pch
+*.log
+*.tlog
+
+# Archivos de proyecto generados automáticamente
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Carpetas generadas por compilación
+/x64/
+/Debug/
+/Release/
+/build/
+/CMakeFiles/
+/out/
+
+# Archivos de CMake generados
+CMakeCache.txt
+cmake_install.cmake
+
+# Otros archivos temporales
+*.tmp
+*.bak
+*.user
+*.ncb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
